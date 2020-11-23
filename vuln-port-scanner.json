@@ -25,5 +25,15 @@
             "port": 3306,
             "name": "mysql"
         }
+    ],
+    "whats_new": [
+
+        {
+            "version": "1.0.0",
+            "update": [
+                "[SUPPORT] Scan IP & Site URL",
+                "[RELEASE] November 2020"
+            ]
+        }
     ]
 }
