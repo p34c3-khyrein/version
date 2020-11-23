@@ -1,0 +1,26 @@
+[
+    {
+        "port": 21,
+        "name": "ftp"
+    },
+    {
+        "port": 22,
+        "name": "ssh"
+    },
+    {
+        "port": 23,
+        "name": "telnet"
+    },
+    {
+        "port": 25,
+        "name": "smtp"
+    },
+    {
+        "port": 873,
+        "name": "rsync"
+    },
+    {
+        "port": 3306,
+        "name": "mysql"
+    }
+]
