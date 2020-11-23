@@ -27,12 +27,26 @@
         }
     ],
     "whats_new": [
-
+        {
+            "version": "1.0.3",
+            "update": [
+                {
+                    "icon": "magnet",
+                    "info": "[ADD] Port ftp:21, ssh:22, telnet:23, smtp:25, rsync:873, mysql:3306"
+                }
+            ]
+        },
         {
             "version": "1.0.0",
             "update": [
-                "[SUPPORT] Scan IP & Site URL",
-                "[RELEASE] November 2020"
+                {
+                    "icon": "dua_topeng",
+                    "info": "[SUPPORT] Scan IP & Site URL"
+                },
+                {
+                    "icon": "seratus",
+                    "info": "[RELEASE] November 2020"
+                }
             ]
         }
     ]
