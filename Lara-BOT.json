@@ -1,0 +1,32 @@
+{
+    "version": "1.0",
+    "dork": [
+        "inurl:/Util/PHP/ \"eval-stdin.php\"",
+        "inurl:vendor/phpunit/phpunit/src/ intext:eval-stdin.php"
+    ],
+    "shell": [{
+            "name": "uploader.php",
+            "url": "https://raw.githubusercontent.com/p34c3-khyrein/shell/main/uploader.txt"
+        },
+        {
+            "name": "woke.php",
+            "url": "https://raw.githubusercontent.com/p34c3-khyrein/shell/main/woke.txt"
+        },
+        {
+            "name": "mx.php",
+            "url": "https://raw.githubusercontent.com/p34c3-khyrein/shell/main/mx.txt"
+        }
+    ],
+    "whats_new": [{
+        "version": "1.0",
+        "update": [{
+                "icon": "tepat_sasaran",
+                "info": "[SUPPORT] Auto Search Dork Google & Auto Upload Shell on eval-stdin.php"
+            },
+            {
+                "icon": "seratus",
+                "info": "[RELEASE] Desember 2020"
+            }
+        ]
+    }]
+}
