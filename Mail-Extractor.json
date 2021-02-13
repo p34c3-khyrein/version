@@ -1,0 +1,12 @@
+{
+    "version": "1.0",
+    "whats_new": [{
+        "version": "1.0",
+        "update": [
+            {
+                "icon": "seratus",
+                "info": "[RELEASE] 13 Februari 2021"
+            }
+        ]
+    }]
+}
